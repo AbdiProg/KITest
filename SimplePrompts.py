@@ -12,7 +12,7 @@ import torch
 import io
 
 client = OpenAI(
-    api_key="sk-hmb6GIEX2f_-TD6PVdiTPQ",
+    api_key=" ",
     base_url="https://litellm.s.studiumdigitale.uni-frankfurt.de/v1/"
 )
 
